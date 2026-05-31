@@ -5,7 +5,7 @@
   "manifestURI": "https://raw.githubusercontent.com/RoscaZ/rosca-seanime-providers/refs/heads/main/provider/manifest.json",
   "version": "1.0.0",
   "author": "rosca",
-  "type": "onlineStreamingProvider",
+  "type": "onlinestream-provider",
   "language": "javascript",
   "lang": "en",
   "payloadURI": "https://raw.githubusercontent.com/RoscaZ/rosca-seanime-providers/refs/heads/main/provider/provider.js"
