@@ -1,0 +1,12 @@
+{
+  "id": "rosca-miruro-consumet",
+  "name": "Miruro (Consumet)",
+  "version": "1.0.0",
+  "manifestURI": "",
+  "description": "Anime streaming via Consumet API (gogoanime source). English subtitles only. Same backend used by Miruro.",
+  "author": "rosca",
+  "lang": "en",
+  "type": "onlineStreamingProvider",
+  "icon": "https://www.miruro.com/icon-512x512.png",
+  "website": "https://www.miruro.com"
+}
