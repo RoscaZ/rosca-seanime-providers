@@ -1,12 +1,12 @@
 {
-  "id": "rosca-miruro-consumet",
-  "name": "Miruro (Consumet)",
-  "description": "Anime streaming via Consumet API. English SUB only.",
-  "manifestURI": "https://raw.githubusercontent.com/RoscaZ/rosca-seanime-providers/refs/heads/main/provider/manifest.json",
+  "id": "rosca-anidao",
+  "name": "AniDao (SUB)",
+  "description": "Anime streaming from anidao.to. English SUB only. Direct scraper, no external API.",
+  "manifestURI": "https://cdn.jsdelivr.net/gh/RoscaZ/rosca-seanime-providers@main/provider/manifest.json",
   "version": "1.0.0",
   "author": "rosca",
   "type": "onlinestream-provider",
   "language": "javascript",
   "lang": "en",
-  "payloadURI": "https://raw.githubusercontent.com/RoscaZ/rosca-seanime-providers/refs/heads/main/provider/provider.js"
+  "payloadURI": "https://cdn.jsdelivr.net/gh/RoscaZ/rosca-seanime-providers@main/provider/provider.js"
 }
