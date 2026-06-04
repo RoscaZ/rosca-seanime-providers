@@ -3,7 +3,7 @@
   "name": "AniDao (SUB)",
   "description": "Anime streaming from anidao.to. English SUB only. Direct scraper, no external API.",
   "manifestURI": "https://cdn.jsdelivr.net/gh/RoscaZ/rosca-seanime-providers@main/provider/manifest.json",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "rosca",
   "type": "onlinestream-provider",
   "language": "javascript",
